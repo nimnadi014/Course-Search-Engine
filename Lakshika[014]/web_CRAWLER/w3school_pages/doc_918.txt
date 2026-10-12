@@ -1,0 +1,4 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 a = frozenset({1, 2})
+b = frozenset({2, 3})
+print(a.union(b))
+print(a | b) frozenset({1, 2, 3}) frozenset({1, 2, 3})

@@ -1,0 +1,7 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 x = range(10)
+
+#display x:
+print(x)
+
+#convert to list to display the content of x:
+print(list(x)) range(0, 10) [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]

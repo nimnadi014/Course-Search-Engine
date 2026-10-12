@@ -1,0 +1,7 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 sum1 = 100 + 50      # 150 (100 + 50)
+sum2 = sum1 + 250    # 400 (150 + 250)
+sum3 = sum2 + sum2   # 800 (400 + 400)
+
+print(sum1)
+print(sum2)
+print(sum3) 150 400 800

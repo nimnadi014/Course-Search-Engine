@@ -1,0 +1,5 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 thisset = {"apple", "banana", "cherry"}
+
+del thisset
+
+print(thisset) #this will raise an error because the set no longer exists Traceback (most recent call last): File "demo_set_del.py", line 5, in <module> print(thisset) #this will raise an error because the set no longer exists NameError: name 'thisset' is not defined

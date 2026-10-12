@@ -1,0 +1,6 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 x = str("s1")
+y = str(2)
+z = str(3.0)
+print(x)
+print(y)
+print(z) s1 2 3.0

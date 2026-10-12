@@ -1,0 +1,6 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 class myclass():
+  def __len__(self):
+    return 0
+
+myobj = myclass()
+print(bool(myobj)) False

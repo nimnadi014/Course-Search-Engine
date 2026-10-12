@@ -1,0 +1,6 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 print(not 5 == 5)
+
+"""
+The logical NOT operator has a lower precedence than "like" comparison, and we need to calculate the comparison first.
+The calculation above reads: not True = False
+""" False

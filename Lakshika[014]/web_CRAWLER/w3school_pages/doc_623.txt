@@ -1,0 +1,4 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 txt = "We are the so-called "Vikings" from the north."
+
+
+#You will get an error if you use double quotes inside a string that are surrounded by double quotes: File "demo_string_escape_error.py", line 1 txt = "We are the so-called "Vikings" from the north." ^ SyntaxError: invalid syntax

@@ -1,0 +1,6 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 print(1 or 2 and 3)
+
+"""
+The and operator has a higher precedence than or, and we need to calculate the and expression first.
+The calculation above reads: 1 or 3 = 1
+""" 1

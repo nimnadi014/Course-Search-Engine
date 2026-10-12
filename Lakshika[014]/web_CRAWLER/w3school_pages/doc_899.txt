@@ -1,0 +1,5 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 set1 = {"apple", "banana" , "cherry"}
+set2 = {"google", "microsoft", "apple"}
+
+set3 = set1 & set2
+print(set3) {'apple'}

@@ -1,0 +1,3 @@
+W3Schools Tryit Editor Get your own Python server Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 #This example erases one character (backspace):
+txt = "Hello \bWorld!"
+print(txt) HelloWorld!

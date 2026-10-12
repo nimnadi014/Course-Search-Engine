@@ -1,0 +1,7 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[:4])
+
+#This will return the items from index 0 to index 4.
+
+#Remember that index 0 is the first item, and index 4 is the fifth item
+#Remember that the item in index 4 is NOT included ['apple', 'banana', 'cherry', 'orange']

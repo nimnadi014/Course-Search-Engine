@@ -1,0 +1,3 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 #A backslash followed by an 'x' and a hex number represents a hex value:
+txt = "\x48\x65\x6c\x6c\x6f"
+print(txt) Hello

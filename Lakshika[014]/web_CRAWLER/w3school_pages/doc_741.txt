@@ -1,0 +1,7 @@
+W3Schools Tryit Editor Run ❯ Get your own Python server ❯ Run Code Ctrl+Alt+R Change Orientation Ctrl+Alt+O Change Theme Ctrl+Alt+D Go to Spaces Ctrl+Alt+P Privacy policy and Copyright 1999-2026 # The & operator compares each bit and set it to 1 if both are 1, otherwise it is set to 0
+# 6 = 0110
+# 3 = 0011
+# --------
+# 2 = 0010
+
+print(6 & 3) 2
