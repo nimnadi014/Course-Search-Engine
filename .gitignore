@@ -1,0 +1,8 @@
+**pycache**/
+.venv/
+venv/
+.env
+*.pyc
+.DS_Store
+.Rhistory
+.RData
